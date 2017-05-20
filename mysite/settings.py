@@ -25,7 +25,7 @@ SECRET_KEY = 'ejamtjd7z0%(z!zl0z7cm_chxc760e_*heod$473)vge!=z^of'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'natakhatina.pythonanywhere.com']
 
 
 # Application definition
